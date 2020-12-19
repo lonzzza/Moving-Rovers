@@ -1,0 +1,11 @@
+C:\Users\Rendani\source\repos\Mars-Rovers\Mars-Rovers\bin\Debug\netcoreapp2.1\Mars-Rovers.deps.json
+C:\Users\Rendani\source\repos\Mars-Rovers\Mars-Rovers\bin\Debug\netcoreapp2.1\Mars-Rovers.runtimeconfig.json
+C:\Users\Rendani\source\repos\Mars-Rovers\Mars-Rovers\bin\Debug\netcoreapp2.1\Mars-Rovers.runtimeconfig.dev.json
+C:\Users\Rendani\source\repos\Mars-Rovers\Mars-Rovers\bin\Debug\netcoreapp2.1\Mars-Rovers.dll
+C:\Users\Rendani\source\repos\Mars-Rovers\Mars-Rovers\bin\Debug\netcoreapp2.1\Mars-Rovers.pdb
+C:\Users\Rendani\source\repos\Mars-Rovers\Mars-Rovers\obj\Debug\netcoreapp2.1\Mars-Rovers.csprojAssemblyReference.cache
+C:\Users\Rendani\source\repos\Mars-Rovers\Mars-Rovers\obj\Debug\netcoreapp2.1\Mars-Rovers.csproj.CoreCompileInputs.cache
+C:\Users\Rendani\source\repos\Mars-Rovers\Mars-Rovers\obj\Debug\netcoreapp2.1\Mars-Rovers.AssemblyInfoInputs.cache
+C:\Users\Rendani\source\repos\Mars-Rovers\Mars-Rovers\obj\Debug\netcoreapp2.1\Mars-Rovers.AssemblyInfo.cs
+C:\Users\Rendani\source\repos\Mars-Rovers\Mars-Rovers\obj\Debug\netcoreapp2.1\Mars-Rovers.dll
+C:\Users\Rendani\source\repos\Mars-Rovers\Mars-Rovers\obj\Debug\netcoreapp2.1\Mars-Rovers.pdb
